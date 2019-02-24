@@ -5,4 +5,3 @@ pluginManagement{
 }
 
 rootProject.name = "restful-springboot-kotlin-app"
-
